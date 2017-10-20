@@ -1,0 +1,5 @@
+Credentials cache: API:BC9C376E-EDB8-4FCD-AFF3-E116EF81A174
+        Principal: vtouffet@42.FR
+
+  Issued                Expires               Principal
+Jul  3 09:21:12 2017  Jul 10 09:20:56 2017  krbtgt/42.FR@42.FR

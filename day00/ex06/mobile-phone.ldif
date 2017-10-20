@@ -1,0 +1,4 @@
+dn: uid=vtouffet,ou=2017_paris,ou=2017,ou=paris,ou=people,dc=42,dc=fr
+changetype: modify
+add: mobile
+mobile: 06xxxxxxxx
